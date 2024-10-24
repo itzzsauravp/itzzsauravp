@@ -3,7 +3,7 @@
 > "Learning never exhausts the mind." - *Leonardo da Vinci*
 
 ## About Me 💫
-I'm a passionate web developer with a keen interest in creating seamless user experiences. Always eager to learn more and open to suggestions, I believe in the power of continuous growth and collaboration.
+I'm an ambitious web developer who is excited about creating user-friendly experiences. I’m hopeful to learn more and appreciate any feedback or suggestions. I truly value ongoing learning and working together with others, as I know they are essential to my growth in this field.
 
 ### What I'm Up To 🚀
 - 👨‍💻 Frontend enthusiast diving deep into **React**
