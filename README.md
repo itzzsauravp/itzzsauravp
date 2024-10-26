@@ -13,9 +13,9 @@ I'm an ambitious web developer who is excited about creating user-friendly exper
 
 ### Tech Stack & Tools 🛠
 ```
-Frontend: HTML5 | CSS3 | JavaScript | React
+Frontend:  HTML5 | CSS3 | JavaScript | React
 Learning:  Node.js | Express
-Tools:    Git | VS Code | npm | yarn
+Tools:     Git | VS Code | npm | yarn
 ```
 
 ### Let's Connect! 📫
