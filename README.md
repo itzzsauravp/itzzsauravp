@@ -8,15 +8,13 @@ I'm an ambitious web developer who is excited about creating user-friendly exper
 ### What I'm Up To 🚀
 - 👨‍💻 Frontend enthusiast diving deep into **React**
 - 🌱 Exploring backend development with **Express** and **NodeJS**
-- 🎯 Working towards mastering **MERN** / **PERN** stack
 - 💡 Always excited to learn new technologies and best practices
 - 🤝 Open to collaborating on interesting web projects
 
 ### Tech Stack & Tools 🛠
 ```
 Frontend: HTML5 | CSS3 | JavaScript | React
-Backend:  Node.js | Express
-Learning: PostgreSQL | MongoDB
+Learning:  Node.js | Express
 Tools:    Git | VS Code | npm | yarn
 ```
 
