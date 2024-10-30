@@ -3,19 +3,17 @@
 > "Learning never exhausts the mind." - *Leonardo da Vinci*
 
 ## About Me 💫
-I'm an ambitious web developer who is excited about creating user-friendly experiences. I’m hopeful to learn more and appreciate any feedback or suggestions. I truly value ongoing learning and working together with others, as I know they are essential to my growth in this field.
+I'm excited about creating user-friendly experiences. I’m hopeful to learn more and appreciate any feedback or suggestions. I truly value ongoing learning and working together with others, as I know they are essential to my growth in this field.
 
 ### What I'm Up To 🚀
-- 👨‍💻 Frontend enthusiast diving deep into **React**
-- 🌱 Exploring backend development with **Express** and **NodeJS**
-- 💡 Always excited to learn new technologies and best practices
-- 🤝 Open to collaborating on interesting web projects
+- 👨‍💻 Right now its mostly **React**
+- 🌱 Exploring **Express** and **NodeJS**
 
 ### Tech Stack & Tools 🛠
 ```
 Frontend:  HTML5 | CSS3 | JavaScript | React
 Learning:  Node.js | Express
-Tools:     Git | VS Code | npm | yarn
+Tools:     Git | VS Code 
 ```
 
 ### Let's Connect! 📫
