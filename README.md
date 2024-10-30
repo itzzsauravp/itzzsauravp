@@ -3,7 +3,7 @@
 > "Learning never exhausts the mind." - *Leonardo da Vinci*
 
 ## About Me 💫
-I'm excited about creating user-friendly experiences. I’m hopeful to learn more and appreciate any feedback or suggestions. I truly value ongoing learning and working together with others, as I know they are essential to my growth in this field.
+I like to center divs
 
 ### What I'm Up To 🚀
 - 👨‍💻 Right now its mostly **React**
