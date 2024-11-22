@@ -21,6 +21,6 @@ Tools:     Git | VS Code
 - 💬 **Discord**: `fnrrwastaken`
 - 🌐 **GitHub**: [@git.itzzsauravp](https://github.com/itzzsauravp)
 - 🔗 **LinkedIn**: [@linkedin.itzzsauravp](https://www.linkedin.com/in/itzzsauravp/)
-
+- 👤 **Portfolio**: [@sauravparajulee](https://www.sauravparajulee.com.np/)
 
 ---
