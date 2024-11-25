@@ -27,6 +27,3 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzzsauravp&theme=radical" alt="GitHub Streak Stats"/>
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=itzzsauravp&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
