@@ -1,7 +1,5 @@
----
 - 📧 Email: [social.saurav2003@gmail.com](mailto:social.saurav2003@gmail.com)
 - 💬 Discord: fnrrwastaken
 - 🌐 GitHub: [@git.itzzsauravp](https://github.com/itzzsauravp)
 - 🔗 LinkedIn: [@linkedin.itzzsauravp](https://www.linkedin.com/in/itzzsauravp/)
 - 👤 Portfolio: [@sauravparajulee](https://www.sauravparajulee.com.np/)
----
